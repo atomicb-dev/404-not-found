@@ -63,6 +63,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website (under construction) [atomicb.kooboo.eu/](https://{http://www.atomicb.kooboo.eu/})
-- GitHub [@atomicb-dev](https://{github.com/atomicb-dev})
-- Twitter [@atomicb_](https://{twitter.com/atomicb_})
+- Website (under construction) [atomicb.kooboo.eu/](http://www.atomicb.kooboo.eu/)
+- GitHub [@atomicb-dev](https://github.com/atomicb-dev)
+- Twitter [@atomicb_](https://twitter.com/atomicb_)
