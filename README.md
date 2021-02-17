@@ -34,8 +34,8 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/atomicb-dev/404-not-found/main/404-not-found-desk.png)
-![screenshot](https://raw.githubusercontent.com/atomicb-dev/404-not-found/main/404-not-found-mobile.png)
+![screenshot](404-not-found-desk.png)
+![screenshot](404-not-found-mobile.png)
 
 This was my first time using media queries to make a responsive page. Also my first time making a mobile page!
 You can see my work by clicking on the Demo button above or going to http://page-not-found.atomicb.kooboo.eu/
